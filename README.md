@@ -9,7 +9,7 @@ http://amy-balot.com/nohzdyve/
 ![Level One](http://amy-balot.com/nohzdyve/nd1.gif)
 
 # Goals
-* Remake the Nohzdyve game featured in the Netflix film Bandersnatch using Unity and making all images and sounds from scratch, but based on the real game. 
+* Remake the *Nohzdyve* game featured in the Netflix film *Bandersnatch* using Unity and making all images and sounds from scratch, but based on the real game. 
 * Add additional levels and characters, but keeping the style of the game and using the actual ZX Spectrum palette only
 
 ![Level One](http://amy-balot.com/nohzdyve/nd2.gif)
@@ -43,6 +43,7 @@ http://amy-balot.com/nohzdyve/
 * Added info that it's a fan project to the title screen
 * Camera pans right and left a bit rather than being fixed on the x-axis
 * It doesn't push you out the window, you start off standing on the windowsill and are able to walk off of it
+* Each level is progressively more difficult because I changed the gravity of the character, so the player falls faster in each level. First level is rather slow and easy.
 
 ## Info
 This is a fan remake of a free game that you can find on one of the versions of the official Bandersnatch website (you can find all the info you need by Googling). I am remaking it just for some practice coding and because I loved Bandersnatch. All copyright for the game belongs to the original developers, no infringement intended. 
