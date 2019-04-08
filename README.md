@@ -3,7 +3,7 @@ Remaking *Nohzdyve* game from *Bandersnatch* and adding some stuff to it for cod
 
 ![Title Screen](http://amy-balot.com/nohzdyve/nd0.gif)
 
-Play it here:
+# Play it here:
 http://amy-balot.com/nohzdyve/
 
 ![Level One](http://amy-balot.com/nohzdyve/nd1.gif)
@@ -46,4 +46,4 @@ http://amy-balot.com/nohzdyve/
 * Each level is progressively more difficult because I changed the gravity of the character, so the player falls faster in each level. First level is rather slow and easy.
 
 ## Info
-This is a fan remake of a free game that you can find on one of the versions of the official Bandersnatch website (you can find all the info you need by Googling). I am remaking it just for some practice coding and because I loved Bandersnatch. All copyright for the game belongs to the original developers, no infringement intended. 
+This is a fan remake of a free game that you can find on one of the versions of the official *Bandersnatch* website (you can find all the info you need by Googling). I am remaking it just for some practice coding and because I loved Bandersnatch. All copyright for the game belongs to the original developers, no infringement intended. 
